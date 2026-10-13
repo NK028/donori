@@ -1,0 +1,6 @@
+node_modules/
+.env
+donori.db
+donori.db-shm
+donori.db-wal
+npm-debug.log*
